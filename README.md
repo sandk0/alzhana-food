@@ -1,2 +1,2 @@
 # alzhana-food
-Tinder-like приложение для столовых
+Tinder-like приложение для заказа еды из столовой
