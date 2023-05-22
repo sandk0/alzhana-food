@@ -1,0 +1,17 @@
+.navmenu-wrapper {
+    display: flex;
+    background: transparent;
+    padding-bottom: 1.25rem;
+}
+
+.navmenu-button-wrapper {
+    display: flex;
+    gap: 0.625rem;
+}
+
+.navmenu-button[type="button"] {
+    background-color: unset;
+    background: #ED5F0F;
+    border-radius: 5rem;
+    border: 0.03125rem solid black;
+}

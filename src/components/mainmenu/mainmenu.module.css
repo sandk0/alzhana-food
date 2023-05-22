@@ -1,0 +1,19 @@
+.navigation {
+    margin-left: 24px;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+
+.list > button {
+    background: #ED5F0F;
+    border-radius: 26px;
+    padding: 5px 12px;
+    color: #fff;
+}
+.list > button:disabled {
+    background: #FFBF9B;
+}

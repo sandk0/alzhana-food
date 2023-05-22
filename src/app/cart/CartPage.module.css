@@ -1,0 +1,21 @@
+.orange_button {
+    background: #ED5F0F;
+    color: #fff;
+    border-radius: 26px;
+    padding: 10px 40px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.orange_button:disabled {
+    background: #FFBF9B;
+}
+
+.form_input {
+    border: 1px solid #000;
+    border-radius: 26px;
+    padding: 10px 40px;
+    font-size: 18px;
+    width: 100%;
+    color: black;
+}
